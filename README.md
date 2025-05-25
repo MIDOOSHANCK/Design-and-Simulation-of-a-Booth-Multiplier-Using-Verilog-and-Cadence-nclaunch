@@ -178,3 +178,4 @@ Successfully designed and simulated a Booth Multiplier in Verilog.
 Performed signed multiplication efficiently.
 Verified correctness using Cadence nclaunch.
 
+
